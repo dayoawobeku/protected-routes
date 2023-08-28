@@ -12,4 +12,4 @@ pnpm dev
 
 Open Postman or any other Rest API client and run the requests in the `src > app > api` directory.
 
-For example, src > app > api > admin > list > route.ts will be `http://localhost:3000/api/admin/list` and so on.
+For example, `src > app > api > admin > list > route.ts` will be `http://localhost:3000/api/admin/list`. And so on.
