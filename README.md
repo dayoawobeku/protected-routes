@@ -18,4 +18,6 @@ Don't forget to pass `Authorization` headers of `role` or `admin` in your reques
 
 If you don't pass an `Authorization` header, you'll get a 401 unauthorized. If you pass a wrong `role`, you'll get a 401 unauthorized.
 
+Edit the `middleware.ts` file to update permissions.
+
 ### Hack away!
